@@ -11,8 +11,6 @@ School of Electrical Engineering, University of Belgrade, Serbia.
 
 
 Developed by Marin Markić. No licence. April - June 2013.
-- marinmarkic@mail.com
-
 
 ### How to use: (see tests)
 
